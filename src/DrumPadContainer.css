@@ -1,0 +1,10 @@
+#drum-pad-container {
+    display: grid;
+    grid: 1fr 1fr 1fr / 1fr 1fr 1fr;
+}
+#display {
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border: 2px solid white;
+    border-radius: 0.5em;
+}
